@@ -13,7 +13,6 @@ Google Cloud Vision APIは、Google Cloud Platform(GCP)が提供する機械学�
 |SAFE_SEARCH_DETECTION|画像に有害なコンテンツが含まれているかの判別|
 |IMAGE_PROPERTIES|画像に関する情報(色情報など)を取得|
 
-参照文献
-
+-参照文献
     - [Google Cloud Vision APIを使ってみた](http://dev.classmethod.jp/cloud/gcp/google-cloud-vision-api-get-start/)
     - [Google Cloud Vision API ドキュメント](https://cloud.google.com/vision/docs/)

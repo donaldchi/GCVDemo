@@ -14,5 +14,7 @@ Google Cloud Vision APIは、Google Cloud Platform(GCP)が提供する機械学�
 |IMAGE_PROPERTIES|画像に関する情報(色情報など)を取得|
 
 - 参照文献
-    - [Google Cloud Vision APIを使ってみた](http://dev.classmethod.jp/cloud/gcp/google-cloud-vision-api-get-start/)
     - [Google Cloud Vision API ドキュメント](https://cloud.google.com/vision/docs/)
+    - [Google Cloud Vision APIを使ってみた](http://dev.classmethod.jp/cloud/gcp/google-cloud-vision-api-get-start/)
+    - [GCV Quickstart](https://cloud.google.com/vision/docs/quickstart#set_up_a_google_cloud_vision_api_project)
+    - [Google Cloud Vision API をすばやく試す] (http://daiiz.hatenablog.com/entry/2016/03/26/020347)
